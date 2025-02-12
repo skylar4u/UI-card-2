@@ -10,10 +10,10 @@ body{
     margin-top: 50px;   
 }
 .leaf{
-    height: 80px;
-    width: 80px;
+    height: 95px;
+    width: 95px;
     padding: 30px;
-    padding-top: 30px;
+    padding-top: 25px;
 }
 .img{
     display: flex;
@@ -96,6 +96,13 @@ button{
     font-family: Cambria, Cochin, Georgia, serif;
 }
 footer{
-    margin-top: 200px;
+    /* margin-top: 200px; */
     color: rgb(70, 100, 100);
+}
+section{
+    height: 650px;
+}
+.part1{
+    margin: auto;
+    width: 500px;
 }
